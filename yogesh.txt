@@ -1,6 +1,2 @@
 This is Yogesh
 
-Changes is from Test Branch.
-
-Change is from Master branch.
-
